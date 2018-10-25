@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UIcontrolExample</string>
+    <string name="create_new_contact">Create New Contact</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string-array name="spinner_data">
+        <item>Work</item>
+        <item>Home</item>
+        <item>Fax</item>
+        <item>other</item>
+    </string-array>
+</resources>
